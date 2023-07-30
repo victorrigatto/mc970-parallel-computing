@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/n64Gzk2m)
 # Threads Exercises
 
 This repository contains a set of exercises focused on threads programming, split into multiple folders, each containing a specific exercise.
